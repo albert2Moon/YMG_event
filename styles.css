@@ -1056,7 +1056,7 @@
     }
     .location-info {
         padding: 20px 60px;
-        width: 500px;
+        width: auto;
         text-align: center;
     }
     .location-info h1 {
