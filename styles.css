@@ -798,9 +798,9 @@
         color: rgb(255, 255, 255);
         border-radius: 30px;
         outline: none;
-        padding: 5px 20px;
-        font-size: 1rem;
-        margin: 5vh 110px;
+        padding: 5px 15px;
+        font-size: .9rem;
+        margin: 5vh 115px;
         box-shadow: 0px 0px 10px rgba(31, 31, 31, 0.8);
     }
 
@@ -829,8 +829,8 @@
         border: 2px solid rgb(255, 0, 76);
         border-radius: 30px;
         outline: none;
-        padding: 5px 20px;
-        font-size: 1rem;
+        padding: 5px 15px;
+        font-size: .9rem;
         width: auto;
         margin: 5px 115px;
         color: #fff;
